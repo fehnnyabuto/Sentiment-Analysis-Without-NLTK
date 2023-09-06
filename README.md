@@ -10,9 +10,9 @@ PyCharm, Python, Matplotlib
 6. Creating txt file: For defining the words and the emotions they represent
 7. Adding NLP Emotion Algorithm
 ## Files
-main.py: Application
-read.txt: Text whose emotional sentiment is to be analyzed
-emotions.txt: List of words and the emotions they represent
+main.py: Application  
+read.txt: Text whose emotional sentiment is to be analyzed  
+emotions.txt: List of words and the emotions they represent  
 graph.png: Representation of the results obtained from analyzing the emotions in the given text
 ## Output
 ![image](https://github.com/fehnnyabuto/Sentiment-Analysis-Without-NLTK/assets/70171779/b1868bc8-d8bd-4e40-bb5c-9b60b212476c)
